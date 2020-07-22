@@ -1,4 +1,4 @@
-# 🐋 Dockerization of NodeJS / 🏃 Efficient Development Process with Scripts
+# 🐋 Dockerization of NodeJS / 🏃 Efficient Development Process with Shell Scripts
 
 ## `run.sh`
 0. Before run this shell script, you can change the port number and name of the docker image in this script.
